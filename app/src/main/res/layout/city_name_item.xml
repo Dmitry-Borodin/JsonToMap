@@ -21,5 +21,4 @@
             android:gravity="center" />
         </RelativeLayout>
     </android.support.v7.widget.CardView>
-
 </LinearLayout>
